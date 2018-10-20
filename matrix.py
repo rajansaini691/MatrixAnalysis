@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 m = input("Please enter the number of rows: ")
 n = input("Please enter the number of elements in each row: ")
 
@@ -54,4 +53,3 @@ for row in matrix:
         print(element, end=' ')
 
     print()
->>>>>>> 0b1658924d5435f7c98b1c79bc02fdf21f7fd8be
